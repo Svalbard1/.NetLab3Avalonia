@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Jx2jyX584Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kusch\\Downloads\\IT_zadacha4-master\\IT_zadacha4-master\\MVVM4\\lab4_5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kusch\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.16\\microsoft.netcore.app.ref.8.0.16.nupkg.sha512",
+    "C:\\Users\\kusch\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.16\\microsoft.windowsdesktop.app.ref.8.0.16.nupkg.sha512",
+    "C:\\Users\\kusch\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.16\\microsoft.aspnetcore.app.ref.8.0.16.nupkg.sha512",
+    "C:\\Users\\kusch\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.16\\microsoft.netcore.app.host.win-x64.8.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
